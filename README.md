@@ -10,6 +10,10 @@ Following this tutorial: https://medium.com/onfido-tech/live-face-tracking-on-io
 
 `Vision`: https://developer.apple.com/documentation/vision
 
+  - `VNDetectFaceLandmarksRequest`
+  - `VNFaceObservation`
+  - `VNImageRequestHandler`
+
 `AVFoundation`: https://developer.apple.com/av-foundation/
 
 https://www.youtube.com/watch?v=cRMMRzk3oKY - https://github.com/tombaranowicz/iOS-Face-Detection
